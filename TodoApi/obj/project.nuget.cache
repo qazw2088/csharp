@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IhR9ZtvBxFv3MNgI/FI+DjeEYtmOYiw0jTfwdAgzyU4ahkhtyvauNrKwKF94/fWyIPtIVCoi0koaLALEANfWyA==",
+  "dgSpecHash": "x+HWGQKawHJeG+UJ4n5D6xBYwgOWhgDsk031KlCa8erM9NKWqK8xIIEyAHlORx2d0lEqqhXOp5XVYThJognsqA==",
   "success": true,
-  "projectFilePath": "D:\\Github\\csharp\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "d:\\Github\\csharp\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

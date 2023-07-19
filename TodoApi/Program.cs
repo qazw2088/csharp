@@ -26,4 +26,8 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// Set the Port here
+app.Urls.Add("http://localhost:5000"); // Replace 5000 with your desired port number
+
+
 app.Run();
