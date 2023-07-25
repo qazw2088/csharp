@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tX5NWkZJJGRCqm2mwwRUH5inh0kAiVIbrxOlazfkjmlkRJ9STqm6YXuDbrRrklCzCl+jX+lI5NimzZQ02xQciw==",
+  "dgSpecHash": "afZZreYXGJ7qAq7oi+Y7DzowGQKIDbzgcI2buLebn2DB+7nvaiQlnl0dL8LH3umxWoe7r5fwhcEISn20fafRaQ==",
   "success": true,
   "projectFilePath": "D:\\Github\\csharp\\hello-csharp\\hello-csharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
   "logs": []
 }

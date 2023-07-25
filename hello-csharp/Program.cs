@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SkiaSharp;
 
 // 引用Functions資料夾內的函數
 using Functions;
@@ -77,7 +78,7 @@ namespace hello_csharp
         public static void UseAddImageOrderT()
         {
             // Cht Logo Byte
-            byte[] chtImage = File.ReadAllBytes("cht_logo.jpg");
+            byte[] chtImage = File.ReadAllBytes(@"D:\Github\csharp\hello-csharp\cht_logo.jpg");
 
             // 使用函數
             (bool isSuccess, byte[]? resultImage) = Image.AddImageOrder(chtImage);

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\hello-csharp"
+    "\\hello-csharp",
+    "\\hello-csharp\\Functions"
   ],
-  "SelectedNode": "\\hello-csharp\\hello-csharp.csproj",
+  "SelectedNode": "\\hello-csharp\\hello-csharp.sln",
   "PreviewInSolutionExplorer": false
 }

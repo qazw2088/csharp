@@ -2,6 +2,7 @@ using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
+using SkiaSharp;
 namespace Functions
 {
     public class ImageTest
@@ -104,8 +105,10 @@ namespace Functions
 
     public class ImageProcessor
     {
+        
         public static void AddTextToImage(string imagePath, string textToAdd)
         {
+            /*
             // Load the image from the file path
             using (Image image = Image.FromFile(imagePath))
             {
@@ -131,5 +134,6 @@ namespace Functions
                 image.Save(imagePath, ImageFormat.Jpeg); // You can change the format as needed
             }
         }
+        */
     }
 }
